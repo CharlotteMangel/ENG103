@@ -2,3 +2,5 @@ $ brew install git
 
 git config --global user.name "Charlotte Mangel"
 git config --global user.email "charlotte@mangel.biz"
+
+ssh-keygen -t ed25519 -C "charlotte@mangel.biz"
